@@ -1,0 +1,12 @@
+# AquaPro Pluming - Project Context
+- **Stack:** Next.js (App Router), Tailwind CSS, TypeScript, lucide-react.
+- **Design System:**
+  - Primary color: Golden/Bronze gradient (`#b8860b` to `#d4a843`) for CTAs and accents.
+  - Secondary color: Dark Navy for the footer.
+  - Text: Dark slate/navy for headings, gray for body text.
+  - Backgrounds: White and light warm gray/beige (`bg-stone-50`).
+- **Rules:**
+  - Modular components inside a `components/` folder.
+  - "Mobile-First" and fully responsive.
+  - Serbian language for all user-facing text.
+  - Hero background image at `/hero-bg.avif`.
