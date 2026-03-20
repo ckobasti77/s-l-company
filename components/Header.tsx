@@ -24,7 +24,7 @@ export default function Header() {
         <a href="#" className="flex items-center gap-2">
           <Image
             src="/logo2.png"
-            alt="S&L Company Logo"
+            alt="Hidropak Logo"
             width={140}
             height={48}
             className="h-10 w-auto"
