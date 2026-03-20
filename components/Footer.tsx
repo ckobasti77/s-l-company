@@ -56,7 +56,7 @@ export default function Footer() {
             <div className="flex items-start gap-2 text-sm text-slate-500 dark:text-slate-400">
               <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0 text-amber-700" />
               <span>
-                Hidropak,
+                Hidrotek,
                 <br />
                 Beograd, Srbija
               </span>
@@ -85,7 +85,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-10 pt-6 border-t border-stone-200 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-slate-400 dark:text-slate-500">
-            &copy; 2026 Hidropak &middot; Sva prava zadržana
+            &copy; 2026 Hidrotek &middot; Sva prava zadržana
           </p>
           <div className="flex gap-3">
             <a

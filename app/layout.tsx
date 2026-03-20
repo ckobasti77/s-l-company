@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Hidropak",
+  title: "Hidrotek",
   description:
     "Profesionalni vodoinstalateri u Beogradu. Hitne intervencije 24/7, popravka cevi, ugradnja bojlera i sanitarija.",
 };
